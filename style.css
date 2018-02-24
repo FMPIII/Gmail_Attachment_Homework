@@ -1,0 +1,92 @@
+body{
+  margin: 0;
+  padding:0;
+  background-color: black;
+}
+
+input{
+  border: 1px solid grey;
+}
+
+
+
+.top_green_bar{
+  background-color: #76dbce;
+  height: 35px;
+
+}
+
+.top_green_bar button{
+  margin: 8px;
+  padding-left: 6px;
+}
+
+.top_green_bar button{
+  margin-top: 9px;
+  margin-left: 9px;
+
+
+
+}
+/* *************top blue section ******* */
+
+.top_blue_section{
+  background-color: #b6d7e4;
+    padding-top: 15px;
+}
+
+.top_blue_section p {
+    display: inline;
+  }
+
+.label  {
+  float: left;
+  width: 100px;
+  padding-left: 6px;
+}
+
+.user input {
+    width: 91%;
+    height: 17px;
+}
+
+
+
+/* ********attachment section......... */
+
+.attachment_line{
+  display: flex;
+  padding-top: 9px;
+}
+
+/* **********big box input section........ */
+textarea{
+  width: 98%;
+  margin-left: 13px;
+}
+
+.input_paragraph_section{
+  padding-top: 9px;
+}
+
+
+
+/* *******bottom green section ****** */
+
+.the_bottom_green_section{
+  background-color: #76dbce;
+  height: 35px;
+}
+
+.the_bottom_green_section button{
+  padding-left: 6px;
+   margin-top: 7px;
+}
+
+.bottom_black{
+  background-color: black;
+}
+
+iframe{
+  border-bottom: solid 2px white;
+}
